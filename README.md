@@ -1,5 +1,5 @@
 # Hello, I'm Israel. 🚀
-**Full-Stack Developer | Cybersecurity Specialist**
+**Software developer | Cybersecurity Specialist**
 
 I bridge the gap between robust software development and proactive security. With a foundation in web engineering and advanced training in modern security frameworks, I focus on building secure-by-default systems.
 
@@ -12,6 +12,8 @@ I bridge the gap between robust software development and proactive security. Wit
 
 ### 🔍 What’s inside?
 In this repo, I document my journey and projects in:
-* Web Application Security (OWASP Top 10)
+* Vulnerabilty assessment
 * Security Automation with Python & AI
-* Network Traffic Analysis & Log Monitoring﻿
+* Network Traffic Analysis & Log Monitoring
+
+* ﻿
