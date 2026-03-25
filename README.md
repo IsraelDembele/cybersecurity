@@ -3,7 +3,14 @@
 
 I bridge the gap between robust software development and proactive security. With a foundation in web engineering and advanced training in modern security frameworks, I focus on building secure-by-default systems.
 
----
+## 🛠️ Technical Skills & Tooling
+
+| Category | Skills & Frameworks | Tools & Platforms |
+| :--- | :--- | :--- |
+| **Cybersecurity** | Threat Hunting, Log Analysis, Network Security, Risk Management, OWASP Top 10 | Wireshark, Nmap, Burp Suite, Splunk, Chronicle |
+| **Web Development** | Frontend (React, HTML5, CSS3), Backend (Node.js, Express), REST APIs, SQL/NoSQL | VS Code, Git/GitHub, Postman, Docker, Vercel |
+| **Security Automation** | Python Scripting, Bash Scripting, AI-Driven Detection, Data Parsing | Jupyter Notebooks, Google AI Essentials, Pandas |
+| **Compliance & Frameworks**| NIST CSF, MITRE ATT&CK®, SOC 1/2 Basics | Linux (Kali, Ubuntu), Windows Server |
 
 ### 🎓 Qualifications
 - 🎖️ **CompTIA Security+**
